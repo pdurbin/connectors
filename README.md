@@ -8,6 +8,11 @@ Screenshot
 
 ![Connectors screenshot](connectors.png?raw=true)
 
+Demo
+----
+
+https://pdurbin.github.io/connectors/
+
 Installation and configuration
 ------------------------------
 
